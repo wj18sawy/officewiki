@@ -1,0 +1,15 @@
+.container {
+  border: 1px solid gray;
+}
+aside
+{
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+    
+}
+head
+{
+    padding: 10px;
+}
